@@ -15,3 +15,6 @@ git clone https://github.com/mronion420/url-collector
 cd url-collector
 
 python2 install.py
+
+This is an open source tool. Contribute to make it better.
+I'm noob so please don't troll me 🥲
