@@ -10,7 +10,6 @@ from colorama import init
 init()
 
 class bcolors:
-    HEADER = '\033[95m'
     blue = '\033[94m'
     ucts = '\033[96m'
     green = '\033[92m'
@@ -20,8 +19,8 @@ class bcolors:
     mex = '\033[1m'
     tts = '\033[4m'
 
-def paradoxlogo():
-	print(bcolors.HEADER + """
+def uclogo():
+	print(bcolors.green + """
       ___           ___     
      /\  \         /\__\    
      \:\  \       /:/  /    
@@ -77,7 +76,7 @@ def PrU(dork,weo_numb,enable_save,filename):
 
 
 def prmain():
-	paradoxlogo()
+	uclogo()
 	enable_save = 0
 	filename = ""
 
