@@ -18,3 +18,5 @@ python2 install.py
 
 This is an open source tool. Contribute to make it better.
 I'm noob so please don't troll me 🥲
+
+tutorial:-[Click Here](https://youtu.be/EXhNgB52bdE)
